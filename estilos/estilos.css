@@ -1,0 +1,68 @@
+/* Fondo general */
+body {
+    background-color: #d4edda; /* Verde suave */
+    font-family: 'Segoe UI', sans-serif;
+    color: #333333;
+    padding: 20px;
+    margin: 0;
+  }
+  
+  /* Encabezado */
+  header {
+    background-color: #218838; /* Verde fuerte */
+    color: #ffffff;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
+  
+  h1 {
+    font-size: 2.8em;
+    margin: 0;
+  }
+  
+  p {
+    font-size: 1.1em;
+    margin-top: 10px;
+  }
+  
+  /* Secciones */
+  section {
+    margin-top: 30px;
+  }
+  
+  /* Artículos */
+  article {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  }
+  
+  /* Listas */
+  ul {
+    font-size: 1.1em;
+    padding-left: 20px;
+  }
+  
+  /* Imagen */
+  img {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    border-radius: 8px;
+    border: 3px solid #218838;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.25);
+  }
+  
+  /* Pie de página */
+  footer {
+    background-color: #1e4620;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 40px;
+  }
